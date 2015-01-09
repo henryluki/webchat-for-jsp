@@ -1,3 +1,3 @@
 webchat-for-jsp
 ===============
-This website is a website for chatting with using ajax and jsp .
+ajax长轮询 jsp聊天网站.
